@@ -292,20 +292,6 @@ The current implementation does not include:
 
 The frontend structure can be extended with backend APIs and persistent database storage in a larger production system.
 
-## Screenshots
-
-The application contains the following main interfaces:
-
-- Student Dashboard
-- Book Shuttle
-- My Bookings
-- Trip History
-- Admin Dashboard
-- Booking Management
-- Drivers & Scheduling
-- Route Management
-- Analytics
-
 ## **Live link:** https://shuttleflow-campus-transit.vercel.app/
 
 ## Author
